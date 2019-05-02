@@ -18,5 +18,8 @@ export default {
   ],
   external: [
     "react",
+    "@emotion/core",
+    "@emotion/styled",
+    "styled-system"
   ]
 };
